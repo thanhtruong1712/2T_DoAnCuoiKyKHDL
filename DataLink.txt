@@ -1,0 +1,10 @@
+Link 1: https://www.worldometers.info/coronavirus/
+Link 2: https://en.wikipedia.org/wiki/COVID-19_pandemic
+Link 3: https://www.statista.com/statistics/1103571/vietnam-status-of-coronavirus-cases/
+Link 4: https://ourworldindata.org/coronavirus
+Link 5: https://www.stats.govt.nz/topics/covid-19
+Link 6: https://www.who.int/emergencies/diseases/novel-coronavirus-2019?gclid=EAIaIQobChMI8bSio6qe7gIV5tdMAh3iigVSEAAYASAAEgKgVvD_BwE
+Link 7: https://wordpress.org/plugins/covid-19-statics/
+Link 8: https://www.statcan.gc.ca/eng/covid19
+Link 9: https://usafacts.org/issues/coronavirus/
+Link 10: https://www.vietnam-briefing.com/news/vietnam-business-operations-and-the-coronavirus-updates.html/
